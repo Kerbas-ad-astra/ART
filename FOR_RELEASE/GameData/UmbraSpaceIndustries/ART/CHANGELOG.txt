@@ -1,3 +1,24 @@
+0.8.2.1 - 2016.04.30
+--------------------
+KSP 1.1.2 compatibility
+
+0.8.2 - 2016.04.30
+------------------
+Dependency Updates
+
+0.8.1 - 2016.04.16
+------------------
+Better compatibility with Custom Asteroids (thanks StarStrider!)
+
+0.8.0 - 2016.03.29
+------------
+Compatibility with KSP 1.1
+Bundled DynamicTanks
+
+0.7.2 - 2016.03.02
+------------------
+Updated dependencies
+
 0.7.1 - 2016.01.17
 ------------------
 Updated dependencies
